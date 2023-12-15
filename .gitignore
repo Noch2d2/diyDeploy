@@ -1,0 +1,4 @@
+node_modules/
+.env
+.attachignore
+.qualified-attach.json
